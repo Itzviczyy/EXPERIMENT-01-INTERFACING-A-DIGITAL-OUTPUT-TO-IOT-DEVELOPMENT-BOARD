@@ -1,13 +1,13 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:** 29-04-2026
+**DATE:** 02-05-2026
 
 **NAME:** Vignesh G
 
 **ROLL NO:** 212224230301
 
-**DEPARTMENT:** Computer Science and Engineering
+**DEPARTMENT:** Artifical Intelligence and Data Science
 
 ## Aim
 
